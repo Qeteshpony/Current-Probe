@@ -1320,7 +1320,7 @@
     (property "ki_keywords" "connector")
     (path "/65ebd6ce-7672-40bc-8689-53e5ee350cff")
     (attr through_hole)
-    (fp_text reference "J2" (at 0 0.5 90) (layer "F.SilkS") hide
+    (fp_text reference "J4" (at 0 0.5 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 8222d2bd-2496-487d-afb7-92caf9e20ffd)
     )
@@ -1354,7 +1354,7 @@
     (property "ki_keywords" "connector")
     (path "/433b85ad-0267-4ade-a242-e66887d4b9e0")
     (attr through_hole)
-    (fp_text reference "J3" (at 0 0.5 90) (layer "F.SilkS") hide
+    (fp_text reference "J1" (at 0 0.5 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 1c627666-747d-4513-8abe-ea692d817cf6)
     )
@@ -2973,7 +2973,7 @@
     (property "ki_keywords" "mounting hole")
     (path "/a083147c-aea8-4fca-b4ec-0a5fa213c37a")
     (attr exclude_from_pos_files)
-    (fp_text reference "H4" (at 0 -4.2) (layer "F.SilkS") hide
+    (fp_text reference "H3" (at 0 -4.2) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d5682e33-d771-4325-97cf-e16b741df78f)
     )
@@ -3018,7 +3018,7 @@
     (property "ki_keywords" "connector")
     (path "/3d319663-afe9-4cef-b8ed-f2b002761b3a")
     (attr through_hole)
-    (fp_text reference "J1" (at 0 0.5 90) (layer "F.SilkS") hide
+    (fp_text reference "J3" (at 0 0.5 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 262cd619-4da9-4cc6-9f04-dd54555d1d33)
     )
@@ -3054,7 +3054,7 @@
     (property "ki_keywords" "mounting hole")
     (path "/f71e43c3-a105-4276-9bf3-4edc52f3ff8e")
     (attr exclude_from_pos_files)
-    (fp_text reference "H3" (at 0 -4.2) (layer "F.SilkS") hide
+    (fp_text reference "H4" (at 0 -4.2) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 058f7fac-79ad-417b-acc1-f3ec91d955c1)
     )
@@ -3099,7 +3099,7 @@
     (property "ki_keywords" "connector")
     (path "/1cc62cc6-369f-4d9d-a614-01ee0cfbf7fe")
     (attr through_hole)
-    (fp_text reference "J4" (at 0 0.5 90) (layer "F.SilkS") hide
+    (fp_text reference "J2" (at 0 0.5 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 1958a629-df4f-4dbb-b178-f67893f0a9d3)
     )
