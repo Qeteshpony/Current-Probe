@@ -6,8 +6,12 @@
 
 [Hardware Documentation](https://qeteshpony.github.io/Current-Probe)
 
-A simple board to turn any oscilloscope into a current meter by running the load through the "LOAD" Terminals and connecting your oscilloscope to the "MEASURE" terminals. 
+A simple board to turn any oscilloscope into a current meter by running the load through the 4mm Terminals and connecting your oscilloscope to the BNC terminal. 
 
-The resistor footprint takes a 2512 SMD resistor which usually come with a rating of 1 to 3 watts which is enough to run several amps through this board. 
+The resistor footprint takes a 2512 SMD resistor which usually come with a rating of 1 to 3, sometimes 5 watts which is enough to run several amps through this board. 
 
-The connector footprints are made for the Altech/Hirschmann PB 4 4mm test jacks that take a 4mm test lead. You can also use the M3 screw holes to connect to this board. 
+The connector footprints are made for the `Altech/Hirschmann PB 4` 4mm test jacks that take a standard 4mm test lead. 
+
+The BNC connector footprint is for the `Amphenol B6252HB` but there's lots of cheap, compatible connectors with the same footprint available
+
+You can also use the M3 screw holes to connect to this board since they are wired in parallel to the connectors closest to each. 
